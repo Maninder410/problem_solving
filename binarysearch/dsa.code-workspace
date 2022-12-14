@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"path": "../../dsa"
+		},
+		{
+			"path": "../../class_projects"
+		},
+		{
+			"path": "../../college work"
+		},
+		{
+			"path": "../../problemsolving"
+		},
+		{
+			"path": "../../webdevcourse"
+		},
+		{
+			"path": "../../oops"
+		},
+		{
+			"path": "../../project"
+		},
+		{
+			"path": "../../reactjs"
+		},
+		{
+			"path": "../../frontendprojects"
+		},
+		{
+			"path": "../../misellenous"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../backend dev"
+		},
+		{
+			"path": "../../node_js"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"array": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"vector": "cpp",
+			"cmath": "cpp",
+			"string": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "frontendprojects"
+	}
+}
