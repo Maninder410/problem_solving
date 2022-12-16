@@ -1,8 +1,8 @@
-package backtracking;
+
 import java.util.*;
 
 public class keyboardscombi {
-
+//git push - u origin main
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
